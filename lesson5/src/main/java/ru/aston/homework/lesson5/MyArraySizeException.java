@@ -1,0 +1,8 @@
+package ru.aston.homework.lesson5;
+
+// Исключение для ошибки размера массива
+public class MyArraySizeException extends Exception {
+    public MyArraySizeException(String message) {
+        super(message);
+    }
+}
