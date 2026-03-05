@@ -1,5 +1,3 @@
-package ru.aston.homework.lesson5;
-
 public class ArraySizeSumChecker {
 
     public static int checksumArray(String[][] array)
